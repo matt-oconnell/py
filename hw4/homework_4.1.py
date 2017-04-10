@@ -80,6 +80,7 @@ class Config(object):
             'csv': CsvConfigFile,
             'json': JsonConfigFile
         }
+
         # Get file extension without "."
         self.file_type = os.path.splitext(file_name)[1].split('.')[1]
         self.file_name = file_name
@@ -102,7 +103,6 @@ class Config(object):
             Value from given string
         """
         try:
-            self.file_data = self.util.read(self.file_name)
             return self.file_data[key]
         except:
             raise KeyError('Key "{}" could not be found in file data'.format(key))
@@ -123,6 +123,7 @@ class Config(object):
             raise ValueError('String or value that is convertible to a string required')
 
         self.file_data[key] = value
+
         file = open(self.file_name, 'w')
         self.util.write(file, self.file_data)
         file.close()
