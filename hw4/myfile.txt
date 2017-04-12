@@ -1,0 +1,7 @@
+a=???!!i
+b=321
+db_password=458abJk!9
+data_query=SELECT this, that FROM mytable WHERE col = 5
+db_name=data_db
+email_to=joe@wilson.com
+db_username=dbuser
