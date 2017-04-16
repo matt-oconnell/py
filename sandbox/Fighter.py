@@ -1,15 +1,32 @@
+import random
+
+
 class Fighter(object):
-    def __init__(self, name):
-        self.name = name
+    attacks = {}
 
-    def punch(self, Opponent):
-        Opponent.damage(self.punchPower)
+    def __init__(self, is_computer):
+        self.health = 100
+        self.is_computer = is_computer
 
-    def kick(self, Opponent):
-        Opponent.damage(self.kickPower)
+    def attack(self):
+        if not self.is_computer:
+            attack = self._pick_attack()
+        else:
+            attack = self._random_attack()
+        return self.attacks[attack]
 
-    def damage(self, amount):
-        self.health = self.health - amount
+    def take_damage(self, damage):
+        self.health = self.health - damage
+        if self.health > 0:
+            return self.health
+        else:
+            return 0
 
-    def get_health(self):
-        return self.health
+    def _pick_attack(self):
+        choice_string = 'Pick an attack:\n'
+        for attack in self.attacks:
+            choice_string += '{}\n'.format(attack)
+        return raw_input(choice_string)
+
+    def _random_attack(self):
+        return random.sample(self.attacks, 1)[0]
