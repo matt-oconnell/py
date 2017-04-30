@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>{{ user }} Playlists!!!</h1>
+    <ul>
+    {% for playlist in playlists %}
+        <li>
+            <a href="{{ url_for('playlist', playlist_id=playlist.id, user_id=playlist.owner.id) }}">{{ playlist.name }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+{% endblock %}

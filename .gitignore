@@ -2,3 +2,4 @@
 .DS_Store
 flask/keys.py
 *.pyc
+keys.py
