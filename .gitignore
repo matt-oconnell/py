@@ -3,3 +3,5 @@
 flask/keys.py
 *.pyc
 keys.py
+hw8/templates/articles
+spotify-playlists/data

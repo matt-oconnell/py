@@ -1,0 +1,1642 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js edition-domestic section-world tone-news app-collection"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 edition-domestic section-world tone-news app-collection" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 edition-domestic section-world tone-news app-collection" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 edition-domestic section-world tone-news app-collection" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+    <title>Americas - The New York Times</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="https://static01.nyt.com/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" sizes="144144" href="https://static01.nyt.com/images/icons/ios-ipad-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114114" href="https://static01.nyt.com/images/icons/ios-iphone-114x144.png" />
+<link rel="apple-touch-icon-precomposed" href="https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" />
+<meta name="sourceApp" content="nyt-v5" />
+<meta id="applicationName" name="applicationName" content="collection" />
+<meta id="foundation-build-id" name="foundation-build-id" content="" />
+<meta name="nyt-collection:identifier" content="americas" />
+<meta name="CN" content="americas" />
+<meta name="nyt-collection:type" content="sectioncollection" />
+<meta name="CT" content="sectioncollection" />
+<meta name="nyt-collection:display-name" content="Americas" />
+<meta name="nyt-collection:tagline" content="" />
+<meta name="nyt-collection:promotional-image" content="" />
+<meta name="PT" content="sectionfront" />
+<meta name="asset_id" content="100000004047787" />
+<meta name="slug" content="americas" />
+<meta property="og:description" content="Find breaking news, world news & multimedia on the United States, Canada & South America with news from Mexico, Brazil, Colombia, Chile, Argentina, Peru & Venezuela." />
+<meta name="description" content="Find breaking news, world news & multimedia on the United States, Canada & South America with news from Mexico, Brazil, Colombia, Chile, Argentina, Peru & Venezuela." />
+<meta property="twitter:description" name="description" content="Find breaking news, world news & multimedia on the United States, Canada & South America with news from Mexico, Brazil, Colombia, Chile, Argentina, Peru & Venezuela." />
+<meta property="og:title" content="Americas" />
+<meta property="twitter:title" content="Americas" />
+<meta name="news_keywords" content="World" />
+<meta name="keywords" content="World" />
+<meta property="og:image" content="https://static01.nyt.com/images/icons/t_logo_291_black.png" />
+<meta property="twitter:image" content="https://static01.nyt.com/images/icons/t_logo_291_black.png" />
+<meta property="collection:section" content="americas" />
+<meta property="collection:parentsection" content="world" />
+<meta property="collection:author" content="" />
+<meta name="pdate" content="20151209" />
+<meta name="nyt-collection:url" content="https://www.nytimes.com/section/world/americas" />
+<meta name="nyt-collection:uri" content="/section/world/americas" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/americas/rss.xml" />
+<meta property="og:url" content="https://www.nytimes.com/section/world/americas" />
+<meta property="twitter:url" content="https://www.nytimes.com/section/world/americas" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="9869919170" />
+<link rel="canonical" href="https://www.nytimes.com/section/world/americas" />
+<meta name="dfp-ad-unit-path" content="world/americas/sectionfront" />
+<meta property="collection:language" content="en" />
+<meta name="twitter:card" value="summary_large_image" />
+<meta name="twitter:site" value="@nytimes" />
+<meta name="robots" content="noarchive" />
+    
+            <link id="legacy-zam5nzz" rel="stylesheet" type="text/css" href="https://typeface.nyt.com/css/zam5nzz.css" media="all" />
+<!--[if (gt IE 9)|!(IE)]> <!-->
+    <link rel="stylesheet" type="text/css" media="screen" href="https://a1.nyt.com/assets/collection/20170501-115959/css/collection/section/styles.css" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://a1.nyt.com/assets/collection/20170501-115959/css/collection/section/styles-ie.css" />
+<![endif]-->
+                <!--  begin abra  -->
+<script>
+var NYTD=NYTD||{};NYTD.Abra=function(t){"use strict";function n(t){var n=i[t];return n&&n[1]||null}function e(t,n){if(t){var e,o,r=n[0],i=n[1],u=0,c=0;if(1!==i.length||4294967296!==i[0])for(e=a(t+" "+r)>>>0,u=0,c=0;o=i[u++];)if(e<(c+=o[0]))return o}}function o(n,e,o,a){s+="subject="+n+"&test="+encodeURIComponent(e)+"&variant="+encodeURIComponent(o||0)+"&url="+encodeURIComponent(t.location.href)+"&instant=1&skipAugment=true\n",a&&f.push(a),c||(c=t.setTimeout(r,0))}function r(){var n=new t.XMLHttpRequest,e=f;n.withCredentials=!0,n.open("POST",u),n.onreadystatechange=function(){var t,o;if(4==n.readyState)for(t=200==n.status?null:new Error(n.statusText);o=e.shift();)o(t)},n.send(s),s="",f=[],c=null}function a(t){for(var n,e,o,r,a,i,u,c=0,s=0,f=[],l=[n=1732584193,e=4023233417,~n,~e,3285377520],h=[],p=t.length;s<=p;)h[s>>2]|=(s<p?t.charCodeAt(s):128)<<8*(3-s++%4);for(h[u=p+8>>2|15]=p<<3;c<=u;c+=16){for(n=l,s=0;s<80;n=[0|[(i=((t=n[0])<<5|t>>>27)+n[4]+(f[s]=s<16?~~h[c+s]:i<<1|i>>>31)+1518500249)+((e=n[1])&(o=n[2])|~e&(r=n[3])),a=i+(e^o^r)+341275144,i+(e&o|e&r|o&r)+882459459,a+1535694389][0|s++/20],t,e<<30|e>>>2,o,r])i=f[s-3]^f[s-8]^f[s-14]^f[s-16];for(s=5;s;)l[--s]=l[s]+n[s]|0}return l[0]}var i,u,c,s="",f=[];return n.init=function(n,r){var a,c,s,f,l,h=[],p=(t.document.cookie.match(/(^|;) *nyt-a=([^;]*)/)||[])[2],d=(t.document.cookie.match(/(^|;) *ab7=([^;]*)/)||[])[2],m=new RegExp("[?&]abra(=([^&#]*))"),g=m.exec(t.location.search);if(g&&g[2]&&(d=d?g[2]+"&"+d:g[2]),i)throw new Error("can't init twice");if(u=r,i={},d)for(d=decodeURIComponent(d).split("&"),a=0;a<d.length;a++)l=d[a].split("="),l[0]in i||(i[l[0]]=[,l[1],1],o("ab-alloc",l[0],l[1]),l[1]&&h.push(l[0]+"="+l[1]));for(a=0;a<n.length;a++)s=n[a],(c=s[0])in i||(f=e(p,s)||[],i[c]=f,f[1]&&h.push(c.replace(/[^\w-]/g)+"="+(""+f[1]).replace(/[^\w-]/g)),f[2]&&o("ab-alloc",c,f[1]));h.length&&t.document.documentElement.setAttribute("data-nyt-ab",h.join(" "))},n.reportExposure=function(n,e){var r=i[n];r&&r[2]?o("ab-expose",n,r[1],e):e&&t.setTimeout(function(){e(null)},0)},n}(this);
+</script>
+<script>NYTD.Abra.init([["www-collection-sample",[[429496730,null,1],[1288490189,"1a",1],[429496729,"1b",1],[1717986919,"2a",1],[42949673,"2b",1],[386547056,null,0]]],["www-ad-diagnostic",[[21474837,"1",0],[4273492459,null,0]]],["www-fabrik-off",[[4294967296,"1",1]]],["EC_SampleTest",[[2147483648,"variantA",0],[2147483648,"variantB",0]]],["EC_DigiAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_HdAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_CrosswordsUpsellTest",[[2147483648,"control",1],[2147483648,"upsell",1]]],["mapleFreeTrial",[[1073741824,"0",1],[1073741824,"1",1],[1073741824,"2",1],[1073741824,"3",1]]],["EC_NewSubOnboardingTest",[[2147483648,"control",1],[2147483648,"sov1",1]]],["PaywallAU",[[1417339208,"0",1],[1417339208,"1",1],[1460288880,"2",1]]]], '//et.nytimes.com/')</script>
+<!--  end abra  -->
+        <script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();</script>
+
+<!--esi
+<script id="user-info-data" type="application/json">
+<esi:include src="/svc/web-products/userinfo-v3.json" />
+</script>
+-->
+<script id="magnum-feature-flags" type="application/json">["limitFabrikSave","moreFollowSuggestions","unfollowComments","supportedBy","magazineLeaderboardAd","freeTrial","kickerWork","fixSearchSort","dateSortMisMatch","supplementalMarketingAd","shareToolFeature","enableIssuesCollectionType","enableFlexFrameAds","liveBlogsOnNewsEvents","enableSeriesCollectionType","paidPostStream","restaurantSearchAPIUpdate","MovieTickets","extendedVerticalImageSupport","NYTExperiment","diningOpenTableLink","updateRestaurantReservations","MapDining","NeighborhoodOptions","removeInternationalEdition","clientSideABRA","abraOverrideVersion","mapleFreeTrial","piiBlockDFP"]</script>
+<script>
+var require = {
+    baseUrl: 'https://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'collection/20170501-115959/js/foundation',
+        'shared': 'collection/20170501-115959/js/shared',
+        'collection': 'collection/20170501-115959/js/collection',
+        'application': 'collection/20170501-115959/js/collection/',
+        'videoFactory': 'https://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'https://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'https://static01.nyt.com/js/mtr',
+        'auth/growl': 'https://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'https://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="https://a1.nyt.com/assets/collection/20170501-115959/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+    require.map['*']['foundation/main'] = 'foundation/legacy_main';
+</script>
+<script data-main="foundation/legacy_main" src="https://a1.nyt.com/assets/collection/20170501-115959/js/foundation/lib/framework.js"></script>
+<![endif]-->
+</head>
+<body>
+    
+    <style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span>
+                    <a href="http://www.nytimes.com/content/help/site/ie9-support.html" class="action-link">LEARN MORE </a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#collection-americas">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a id="branding-heading-link" href="http://www.nytimes.com/">
+                    <span class="visually-hidden">The New York Times</span>
+                </a>
+            </h2>
+            <script>window.magnum.writeLogo('small', 'https://a1.nyt.com/assets/collection/20170501-115959/images/foundation/logos/', 'world', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'collection');</script>
+        </div><!-- close branding -->
+        <div class="collection-meta">
+    <h3 class="kicker">
+        <span class="kicker-label">
+            Americas        </span>
+        <span class="search-meta hidden">
+            <span class="pipe">|</span>
+            <span class="search-term"></span>
+        </span>
+    </h3>
+    </div><!-- close collection-meta -->
+        <div class="user-tools">
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>
+                        <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div class="user-tools-button-group button-group">
+                <button class="button subscribe-button hidden" data-href="http://www.nytimes.com/subscriptions/Multiproduct/lp3004.html?campaignId=4XUYF">Subscribe Now</button>
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                                <div class="follow-button-placeholder" data-collection-id="column.americas"></div>
+                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <nav class="search-form-control form-control layout-horizontal">
+    <h2 class="visually-hidden">Site Search Navigation</h2>
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+</header>
+                    <nav id="navigation" class="navigation">
+    <h2 class="visually-hidden">Site Navigation</h2>
+</nav><!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+    <h2 class="visually-hidden">Site Mobile Navigation</h2>
+</nav><!-- close mobile-navigation -->
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+    <div id="page" class="page">
+        <div id="TopAd" class="ad top-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+</div>
+
+        <main id="main" class="main" role="main">
+        <section id="collection-americas" class="americas-collection collection" itemscope itemtype="http://schema.org/CollectionPage">
+        <header class="collection-header">
+        <div class="collection-meta">
+            <div class="collection-meta-header">
+    <div class="supported-by nocontent robots-nocontent hidden">
+    <span class="ad-label">Supported by</span>
+    <div id="SupportedBy" class="supported-by-ad ad"></div>
+</div>    <h3 class="kicker">
+        <span class="kicker-label">
+            <a href="https://www.nytimes.com/pages/world/index.html">World</a>
+        </span>
+            </h3>
+</div><!-- close collection-meta-header -->
+            <div class="collection-meta-group">
+
+                
+                <div class="collection-headings">
+
+    <div class="collection-heading-group">
+
+                                <h1 class="collection-heading" itemprop="name">
+                Americas            </h1>
+                            <div class="follow-button-placeholder" style="" data-collection-id="section.americas"></div>
+                    
+            </div><!-- close collection-heading-group -->
+
+    
+    
+            <h2 class="collection-subheading" itemprop="about">                    </h2>
+    
+    
+</div><!-- close collection-headings -->
+
+            </div>
+        </div>
+            </header>
+        
+    
+
+    
+    <div class="stream-supplemental">
+			<div id="main-tabs" class="main-tabs tabs">
+    <nav class="tab-navigation">
+        <ul class="tab-menu" role="tablist">
+                                            <li class="tab   active "
+                aria-controls="latest-panel" role="tab" tabindex="0" aria-selected="true" data-name="latest">
+                <a id="tab-link-1" class=""href="#latest-panel" tabindex="-1">Latest</a>
+            </li>
+                                            <li class="tab    search-tab"
+                aria-controls="search-panel" role="tab" tabindex="0" aria-selected="true" data-name="search">
+                <a id="tab-link-2" class="search-link"href="#search-panel" tabindex="-1"><i class="icon sprite-icon search-icon"></i><span class="link-text">Search</span>
+<form class="search-tab-form" role="search">
+    <div class="control">
+        <div class="label-container visually-hidden">
+            <label id="search-tab-label" for="search-tab-input">Search</label>
+        </div>
+        <div class="field-container">
+            <input id="search-tab-input" name="search-tab-input" type="text"
+                class="search-tab-input text" placeholder="Search"
+                aria-labelledby="search-tab-label" size="8" autocomplete="off" />
+            <button type="button" class="button clear-button hidden" tabindex="-1"
+                aria-describedby="clear-search-input"><i class="icon"></i><span
+                id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+        </div>
+    </div><!-- close control -->
+</form>
+</a>
+            </li>
+                </ul><!-- close tab-menu -->
+    </nav><!-- close tab-navigation -->
+
+                            <section
+            id="latest-panel"
+            class="tab-panel latest-panel  "
+            aria-labelledby="tab-link-1"
+            role="tabpanel"
+            aria-expanded="false"
+            tabindex="-1"
+        >
+            <h2 class="section-heading visually-hidden">Latest Articles</h2>
+
+
+
+<div class="stream" data-total-pages="848">
+    <ol class="story-menu theme-stream initial-set">
+                <li id="story-id-100000005078097"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/03/us/politics/trump-immigration-spending-bill.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Trumps Immigration Proposals Conspicuously Absent From Spending Bill                </h2>
+                <p class="summary" itemprop="description">Lawmakers from both parties rejected key elements of the presidents proposals to enforce the nations immigration laws more aggressively.</p>
+                                    <p class="byline" itemprop="author">By RON NIXON</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/04/us/04border1/04border1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-03" itemprop="dateModified" content="2017-05-03">May 3, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005076707"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    As Arctic Ice Vanishes, New Shipping Routes Open                </h2>
+                <p class="summary" itemprop="description">As global warming leads to reduced sea ice in the Arctic, shipping routes once thought impossible  including directly over the North Pole  may open up by midcentury.</p>
+                                    <p class="byline" itemprop="author">By JUGAL K. PATEL and HENRY FOUNTAIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/science/earth/arctic-shipping-1493760955886/arctic-shipping-1493760955886-mediumThreeByTwo210.png" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-03" itemprop="dateModified" content="2017-05-03">May 3, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005030445"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/world/canada/british-columbias-business-temptation-an-opaque-array-of-tax-breaks.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    British Columbias Business Temptation: An Opaque Array of Tax Breaks                </h2>
+                <p class="summary" itemprop="description">Proponents of the program say it helps stimulate the economy, but fewer than 300 jobs have been created. Critics say it prioritizes privacy over accountability.</p>
+                                    <p class="byline" itemprop="author">By DAN LEVIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/00canada-tax1-sub/00canada-tax1-sub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005041350"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/world/americas/brazil-yellow-fever-monkeys.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Brazil Yellow Fever Outbreak Spawns Alert: Stop Killing the Monkeys                </h2>
+                <p class="summary" itemprop="description">Authorities are urging worried residents to stop killing monkeys, which experts say can serve as beacons for where the virus is spreading.</p>
+                                    <p class="byline" itemprop="author">By SIMON ROMERO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/03BRAZIL2/03BRAZIL2-mediumThreeByTwo210-v4.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005071258"><article class="story theme-summary  has-kicker" itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/magazine/the-superfood-gold-rush.html" >
+            <div class="story-meta">
+                                    <h3 class="kicker ">The Money Issue</h3>
+                                <h2 class="headline" itemprop="headline">
+                    The Superfood Gold Rush                </h2>
+                <p class="summary" itemprop="description">Like quinoa before it, aa has become a craze among health-conscious Americans  creating a bonanza in the regions where its grown.</p>
+                                    <p class="byline" itemprop="author">By JAMIE LAUREN KEILES</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/07/magazine/07acai/07mag-07acai-t_CA1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005073454"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/insider/zika-twins-a-window-into-much-more-than-a-virus.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Zika Twins: A Window Into Much More Than a Virus                </h2>
+                <p class="summary" itemprop="description">I did not anticipate the situation of Joo Lucas and Ana Vitria, whose different fates had overwhelmed their mother and led to the brain-damaged boy being placed with a guardian.</p>
+                                    <p class="byline" itemprop="author">By PAM BELLUCK</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/insider/02-Insider-ZikaTwins-Image/02-Insider-ZikaTwins-Image-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005074705"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/world/americas/venezuela-nicolas-maduro-constitution.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Nicols Maduro, Venezuela President, Calls for a Rewrite of the Constitution                </h2>
+                <p class="summary" itemprop="description">Mr. Maduro said his plan would quell mounting protests against him, but his opponents called it an attempt to avoid elections.</p>
+                                    <p class="byline" itemprop="author">By NICHOLAS CASEY</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/02venezuela-1/02venezuela-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005044812"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/us/customs-airports-trump.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    They Treated Us Like Criminals: U.S. Border Crossers Report Severe Reception                </h2>
+                <p class="summary" itemprop="description">The Trump administration has issued no official new directives to customs officers, but travelers say they are having a tougher time entering.</p>
+                                    <p class="byline" itemprop="author">By VIVIAN YEE</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/us/00airports1/00airports1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000004986548"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/health/zika-twins-transmission-theories.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Clues to Zika Damage Might Lie in Cases of Twins                </h2>
+                <p class="summary" itemprop="description">While identical twins often share a fate, fraternal twins typically dont, a divergence that offers clues to researchers. But one case is confounding these expectations.</p>
+                                    <p class="byline" itemprop="author">By PAM BELLUCK and TANIA FRANCO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/science/02ZIKA4/02ZIKA4-mediumThreeByTwo210-v2.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005065737"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/sports/mexico-cetys-ncaa-border.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Looking to Cross the Border From Mexico, Into the N.C.A.A.                </h2>
+                <p class="summary" itemprop="description">Cetys University is making an ambitious bid to become the first Mexican member of the N.C.A.A.</p>
+                                    <p class="byline" itemprop="author">By MARC TRACY</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/sports/01colleges2/01colleges2-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                        <li id="paid-post-1" class="ad hidden"></li>
+            </ol>
+    <ol id="story-menu-additional-set-latest" class="story-menu theme-stream additional-set hidden">
+        <li id="latest-page-marker" class="page-marker invisible-minimized"></li>
+                <li id="story-id-100000004951633"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/sports/hockey/toronto-hockey-playing-female-judge.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Meet Torontos Gavel-Wielding, Puck-Shooting Madam Justice                </h2>
+                <p class="summary" itemprop="description">Mara Greene, who took up hockey shortly after being appointed a judge in 2009, is helping redefine the the work-life balance in Canadas justice system.</p>
+                                    <p class="byline" itemprop="author">By CURTIS RUSH</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/sports/01HOCKEYJUDGE1/01HOCKEYJUDGEweb1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005072467"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/us/politics/trump-duterte.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Trumps Very Friendly Talk With Duterte Stuns Aides and Critics Alike                </h2>
+                <p class="summary" itemprop="description">The administration is bracing for an avalanche of criticism after the president embraced Rodrigo Duterte, who has led a deadly crackdown on drugs in the Philippines.</p>
+                                    <p class="byline" itemprop="author">By MARK LANDLER</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/us/01prexy/01prexy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005064902"><article class="story theme-summary  has-kicker" itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/world/canada/totem-poles-haida-nation-british-columbia.html" >
+            <div class="story-meta">
+                                    <h3 class="kicker ">Reporter's Notebook</h3>
+                                <h2 class="headline" itemprop="headline">
+                    Where Totem Poles Are a Living Art (and Relics Rest in Peace)                </h2>
+                <p class="summary" itemprop="description">Inspired by ancestral works, including one stored in a shed, a master carver pays tribute to a practice once common in the Haida Gwaii islands of Canada.</p>
+                                    <p class="byline" itemprop="author">Photographs and Text by CATHERINE PORTER</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/world/02TOTEMPOLE-3/02TOTEMPOLE-3-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005027445"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/29/world/americas/veracruz-mexico-reporters-killed.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    In Mexico, Its Easy to Kill a Journalist                </h2>
+                <p class="summary" itemprop="description">The state of Veracruz is the hemispheres most dangerous place to be a reporter. The authorities seem ill equipped to stop attacks on the press, and in some cases appear entangled in them.</p>
+                                    <p class="byline" itemprop="author">By AZAM AHMED</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/29/world/americas/MEXICO-JOURNALISTS-slide-MP7R/MEXICO-JOURNALISTS-slide-MP7R-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-29" itemprop="dateModified" content="2017-04-29">April 29, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005070260"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/28/world/canada/canada-today-behind-the-green-gables-trade-twists-and-strange-skies.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Canada Today: Behind the Green Gables, Trade Twists and Strange Skies                </h2>
+                <p class="summary" itemprop="description">Prince Edward Island has long held an international profile thanks to a fictional redheaded orphan named Anne Shirley, the protagonist of the 1908 novel Anne of Green Gables.</p>
+                                    <p class="byline" itemprop="author">By IAN AUSTEN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/30/magazine/29CanadaTodayAnne/30anneofgg1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-28" itemprop="dateModified" content="2017-04-28">April 28, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005070132"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/28/world/americas/brazil-general-strike.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Brazil Gripped by General Strike Over Austerity Measures                </h2>
+                <p class="summary" itemprop="description">Tensions flared in Rio de Janeiro, with schools warning parents to keep students at home, security forces using tear gas and clashes erupting inside an airport.</p>
+                                    <p class="byline" itemprop="author">By SIMON ROMERO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/29/world/29brazil3-sub/29brazil3-sub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-28" itemprop="dateModified" content="2017-04-28">April 28, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005067232"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/state-department-united-nations-ambassador.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    State Department Wants to Clear Nikki Haleys Remarks Before She Speaks                </h2>
+                <p class="summary" itemprop="description">An email drafted by State Department diplomats is an apparent attempt to get the U.N. ambassador and the secretary of state on the same page.</p>
+                                    <p class="byline" itemprop="author">By SOMINI SENGUPTA and GARDINER HARRIS</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/world/28nations-1/28nations-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005066187"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/business/economy/nafta-impact-industries-cars-agriculture-apparel-pharmaceuticals.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Revisiting Nafta: The Stakes for Key Industries                </h2>
+                <p class="summary" itemprop="description">President Trump says he wont immediately try to terminate the North American Free Trade Agreement, but some sectors would be vulnerable in a renegotiation.</p>
+                                    <p class="byline" itemprop="author">By THE NEW YORK TIMES</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/business/28NAFTABIZ5/28NAFTABIZ5-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005065029"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/only-captivity-will-save-the-vaquita-experts-say.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Only Captivity Will Save the Vaquita, Experts Say                </h2>
+                <p class="summary" itemprop="description">Scientists say that efforts to save the small porpoise in the Gulf of California have essentially failed, and some believe there may be only two or three left.</p>
+                                    <p class="byline" itemprop="author">By ROD NORDLAND</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/27/world/28vaquita/28vaquita-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005067129"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/mexico-trump-nafta-trade.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    A Poised Mexico Sees Trump Anew: a Bluffer at the Poker Table                </h2>
+                <p class="summary" itemprop="description">President Trump used to be able to anger Mexico easily, but leaders there have developed a thicker skin as they prepare to renegotiate Nafta with the United States.</p>
+                                    <p class="byline" itemprop="author">By KIRK SEMPLE and ELISABETH MALKIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/world/28mexico-1/28mexico-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                        <li id="paid-post-2" class="ad hidden"></li>
+            </ol>
+        <div class="story-menu-options">
+        <div class="buttons">
+            <button class="button load-more-button" aria-controls="story-menu-additional-set-latest">Show More</button>
+            <a class="button skip-button visually-hidden focusable" href="#site-index-navigation">Skip to Navigation</a>
+        </div>
+    </div><!-- close story-menu-options -->
+    </div><!-- close stream -->
+
+<div class="supplemental">
+    <div id="lede-ad" class="ad lede-ad nocontent robots-nocontent"></div>
+    <div id="supplemental-ad-2" class="ad supplemental-ad-2 nocontent robots-nocontent"></div></div><!-- close supplemental -->
+        </section><!-- close tab-panel -->
+                            <section
+            id="search-panel"
+            class="tab-panel search-panel hidden "
+            aria-labelledby="tab-link-2"
+            role="tabpanel"
+            aria-expanded="false"
+            tabindex="-1"
+        >
+                <div id="stream-search" class="stream-search">
+        <div class="stream-controls">
+            <header class="stream-search-header section-header" aria-live="polite" aria-atomic="true">
+                <h2 class="section-heading visually-hidden">Search Articles</h2>
+                                <h3 class="stream-search-heading section-heading"><span class="result-count">8475 results</span> <span id="results-for-word" class="hidden">for</span> <strong class="search-term"></strong> <span class="stream-sort">sorted by <button type="button" class="button stream-sort-button"><span class="button-text">newest</span><i class="icon caret-icon"></i></button></span></h3>
+                            </header>
+        </div><!-- close stream-controls -->
+
+
+
+<div class="stream" data-total-pages="848">
+    <ol class="story-menu theme-stream initial-set">
+                <li id="story-id-100000005078097"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/03/us/politics/trump-immigration-spending-bill.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Trumps Immigration Proposals Conspicuously Absent From Spending Bill                </h2>
+                <p class="summary" itemprop="description">Lawmakers from both parties rejected key elements of the presidents proposals to enforce the nations immigration laws more aggressively.</p>
+                                    <p class="byline" itemprop="author">By RON NIXON</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/04/us/04border1/04border1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-03" itemprop="dateModified" content="2017-05-03">May 3, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005076707"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/interactive/2017/05/03/science/earth/arctic-shipping.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    As Arctic Ice Vanishes, New Shipping Routes Open                </h2>
+                <p class="summary" itemprop="description">As global warming leads to reduced sea ice in the Arctic, shipping routes once thought impossible  including directly over the North Pole  may open up by midcentury.</p>
+                                    <p class="byline" itemprop="author">By JUGAL K. PATEL and HENRY FOUNTAIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/science/earth/arctic-shipping-1493760955886/arctic-shipping-1493760955886-mediumThreeByTwo210.png" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-03" itemprop="dateModified" content="2017-05-03">May 3, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005030445"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/world/canada/british-columbias-business-temptation-an-opaque-array-of-tax-breaks.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    British Columbias Business Temptation: An Opaque Array of Tax Breaks                </h2>
+                <p class="summary" itemprop="description">Proponents of the program say it helps stimulate the economy, but fewer than 300 jobs have been created. Critics say it prioritizes privacy over accountability.</p>
+                                    <p class="byline" itemprop="author">By DAN LEVIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/00canada-tax1-sub/00canada-tax1-sub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005041350"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/world/americas/brazil-yellow-fever-monkeys.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Brazil Yellow Fever Outbreak Spawns Alert: Stop Killing the Monkeys                </h2>
+                <p class="summary" itemprop="description">Authorities are urging worried residents to stop killing monkeys, which experts say can serve as beacons for where the virus is spreading.</p>
+                                    <p class="byline" itemprop="author">By SIMON ROMERO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/03BRAZIL2/03BRAZIL2-mediumThreeByTwo210-v4.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005071258"><article class="story theme-summary  has-kicker" itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/02/magazine/the-superfood-gold-rush.html" >
+            <div class="story-meta">
+                                    <h3 class="kicker ">The Money Issue</h3>
+                                <h2 class="headline" itemprop="headline">
+                    The Superfood Gold Rush                </h2>
+                <p class="summary" itemprop="description">Like quinoa before it, aa has become a craze among health-conscious Americans  creating a bonanza in the regions where its grown.</p>
+                                    <p class="byline" itemprop="author">By JAMIE LAUREN KEILES</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/07/magazine/07acai/07mag-07acai-t_CA1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005073454"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/insider/zika-twins-a-window-into-much-more-than-a-virus.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Zika Twins: A Window Into Much More Than a Virus                </h2>
+                <p class="summary" itemprop="description">I did not anticipate the situation of Joo Lucas and Ana Vitria, whose different fates had overwhelmed their mother and led to the brain-damaged boy being placed with a guardian.</p>
+                                    <p class="byline" itemprop="author">By PAM BELLUCK</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/insider/02-Insider-ZikaTwins-Image/02-Insider-ZikaTwins-Image-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005074705"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/world/americas/venezuela-nicolas-maduro-constitution.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Nicols Maduro, Venezuela President, Calls for a Rewrite of the Constitution                </h2>
+                <p class="summary" itemprop="description">Mr. Maduro said his plan would quell mounting protests against him, but his opponents called it an attempt to avoid elections.</p>
+                                    <p class="byline" itemprop="author">By NICHOLAS CASEY</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/03/world/02venezuela-1/02venezuela-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-02" itemprop="dateModified" content="2017-05-02">May 2, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005044812"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/us/customs-airports-trump.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    They Treated Us Like Criminals: U.S. Border Crossers Report Severe Reception                </h2>
+                <p class="summary" itemprop="description">The Trump administration has issued no official new directives to customs officers, but travelers say they are having a tougher time entering.</p>
+                                    <p class="byline" itemprop="author">By VIVIAN YEE</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/us/00airports1/00airports1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000004986548"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/health/zika-twins-transmission-theories.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Clues to Zika Damage Might Lie in Cases of Twins                </h2>
+                <p class="summary" itemprop="description">While identical twins often share a fate, fraternal twins typically dont, a divergence that offers clues to researchers. But one case is confounding these expectations.</p>
+                                    <p class="byline" itemprop="author">By PAM BELLUCK and TANIA FRANCO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/science/02ZIKA4/02ZIKA4-mediumThreeByTwo210-v2.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005065737"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/05/01/sports/mexico-cetys-ncaa-border.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Looking to Cross the Border From Mexico, Into the N.C.A.A.                </h2>
+                <p class="summary" itemprop="description">Cetys University is making an ambitious bid to become the first Mexican member of the N.C.A.A.</p>
+                                    <p class="byline" itemprop="author">By MARC TRACY</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/sports/01colleges2/01colleges2-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-05-01" itemprop="dateModified" content="2017-05-01">May 1, 2017</time>
+    </footer>
+</article>
+</li>
+                    </ol>
+    <ol id="story-menu-additional-set-search" class="story-menu theme-stream additional-set hidden">
+        <li id="search-page-marker" class="page-marker invisible-minimized"></li>
+                <li id="story-id-100000004951633"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/sports/hockey/toronto-hockey-playing-female-judge.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Meet Torontos Gavel-Wielding, Puck-Shooting Madam Justice                </h2>
+                <p class="summary" itemprop="description">Mara Greene, who took up hockey shortly after being appointed a judge in 2009, is helping redefine the the work-life balance in Canadas justice system.</p>
+                                    <p class="byline" itemprop="author">By CURTIS RUSH</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/sports/01HOCKEYJUDGE1/01HOCKEYJUDGEweb1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005072467"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/us/politics/trump-duterte.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Trumps Very Friendly Talk With Duterte Stuns Aides and Critics Alike                </h2>
+                <p class="summary" itemprop="description">The administration is bracing for an avalanche of criticism after the president embraced Rodrigo Duterte, who has led a deadly crackdown on drugs in the Philippines.</p>
+                                    <p class="byline" itemprop="author">By MARK LANDLER</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/01/us/01prexy/01prexy-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005064902"><article class="story theme-summary  has-kicker" itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/30/world/canada/totem-poles-haida-nation-british-columbia.html" >
+            <div class="story-meta">
+                                    <h3 class="kicker ">Reporter's Notebook</h3>
+                                <h2 class="headline" itemprop="headline">
+                    Where Totem Poles Are a Living Art (and Relics Rest in Peace)                </h2>
+                <p class="summary" itemprop="description">Inspired by ancestral works, including one stored in a shed, a master carver pays tribute to a practice once common in the Haida Gwaii islands of Canada.</p>
+                                    <p class="byline" itemprop="author">Photographs and Text by CATHERINE PORTER</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/05/02/world/02TOTEMPOLE-3/02TOTEMPOLE-3-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-30" itemprop="dateModified" content="2017-04-30">April 30, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005027445"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/29/world/americas/veracruz-mexico-reporters-killed.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    In Mexico, Its Easy to Kill a Journalist                </h2>
+                <p class="summary" itemprop="description">The state of Veracruz is the hemispheres most dangerous place to be a reporter. The authorities seem ill equipped to stop attacks on the press, and in some cases appear entangled in them.</p>
+                                    <p class="byline" itemprop="author">By AZAM AHMED</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/29/world/americas/MEXICO-JOURNALISTS-slide-MP7R/MEXICO-JOURNALISTS-slide-MP7R-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-29" itemprop="dateModified" content="2017-04-29">April 29, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005070260"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/28/world/canada/canada-today-behind-the-green-gables-trade-twists-and-strange-skies.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Canada Today: Behind the Green Gables, Trade Twists and Strange Skies                </h2>
+                <p class="summary" itemprop="description">Prince Edward Island has long held an international profile thanks to a fictional redheaded orphan named Anne Shirley, the protagonist of the 1908 novel Anne of Green Gables.</p>
+                                    <p class="byline" itemprop="author">By IAN AUSTEN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/30/magazine/29CanadaTodayAnne/30anneofgg1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-28" itemprop="dateModified" content="2017-04-28">April 28, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005070132"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/28/world/americas/brazil-general-strike.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Brazil Gripped by General Strike Over Austerity Measures                </h2>
+                <p class="summary" itemprop="description">Tensions flared in Rio de Janeiro, with schools warning parents to keep students at home, security forces using tear gas and clashes erupting inside an airport.</p>
+                                    <p class="byline" itemprop="author">By SIMON ROMERO</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/29/world/29brazil3-sub/29brazil3-sub-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-28" itemprop="dateModified" content="2017-04-28">April 28, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005067232"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/state-department-united-nations-ambassador.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    State Department Wants to Clear Nikki Haleys Remarks Before She Speaks                </h2>
+                <p class="summary" itemprop="description">An email drafted by State Department diplomats is an apparent attempt to get the U.N. ambassador and the secretary of state on the same page.</p>
+                                    <p class="byline" itemprop="author">By SOMINI SENGUPTA and GARDINER HARRIS</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/world/28nations-1/28nations-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005066187"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/business/economy/nafta-impact-industries-cars-agriculture-apparel-pharmaceuticals.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Revisiting Nafta: The Stakes for Key Industries                </h2>
+                <p class="summary" itemprop="description">President Trump says he wont immediately try to terminate the North American Free Trade Agreement, but some sectors would be vulnerable in a renegotiation.</p>
+                                    <p class="byline" itemprop="author">By THE NEW YORK TIMES</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/business/28NAFTABIZ5/28NAFTABIZ5-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005065029"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/only-captivity-will-save-the-vaquita-experts-say.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    Only Captivity Will Save the Vaquita, Experts Say                </h2>
+                <p class="summary" itemprop="description">Scientists say that efforts to save the small porpoise in the Gulf of California have essentially failed, and some believe there may be only two or three left.</p>
+                                    <p class="byline" itemprop="author">By ROD NORDLAND</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/27/world/28vaquita/28vaquita-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                <li id="story-id-100000005067129"><article class="story theme-summary  " itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="story-body">
+        <a class="story-link" data-rref="" href="https://www.nytimes.com/2017/04/27/world/americas/mexico-trump-nafta-trade.html" >
+            <div class="story-meta">
+                                <h2 class="headline" itemprop="headline">
+                    A Poised Mexico Sees Trump Anew: a Bluffer at the Poker Table                </h2>
+                <p class="summary" itemprop="description">President Trump used to be able to anger Mexico easily, but leaders there have developed a thicker skin as they prepare to renegotiate Nafta with the United States.</p>
+                                    <p class="byline" itemprop="author">By KIRK SEMPLE and ELISABETH MALKIN</p>
+                            </div><!-- close story-meta -->
+                            <div class="wide-thumb">
+                    <img role="presentation" src="https://static01.nyt.com/images/2017/04/28/world/28mexico-1/28mexico-1-mediumThreeByTwo210.jpg" alt="" itemprop="thumbnailUrl" />
+                                                        </div><!-- close wide-thumb -->
+                    </a>
+    </div><!-- close story-body -->
+    <footer class="story-footer">
+        <time class="dateline" datetime="2017-04-27" itemprop="dateModified" content="2017-04-27">April 27, 2017</time>
+    </footer>
+</article>
+</li>
+                    </ol>
+        <div class="story-menu-options">
+        <div class="buttons">
+            <button class="button load-more-button" aria-controls="story-menu-additional-set-search">Show More</button>
+            <a class="button skip-button visually-hidden focusable" href="#site-index-navigation">Skip to Navigation</a>
+        </div>
+    </div><!-- close story-menu-options -->
+    </div><!-- close stream -->
+
+    <div class="supplemental">
+      <div id="lede-ad-search" class="ad lede-ad nocontent robots-nocontent"></div>
+    </div><!-- close supplemental -->
+</div><!-- close stream-search -->
+        </section><!-- close tab-panel -->
+    </div><!-- close story-tabs -->
+	</div>
+</section><!-- close collection -->
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a id="site-index-branding-link" href="http://www.nytimes.com/">
+                <span class="visually-hidden">The New York Times</span>
+            </a>
+        </h2>
+        <script>window.magnum.writeLogo('small', 'https://a1.nyt.com/assets/collection/20170501-115959/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');</script>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+        <h2 class="visually-hidden">Site Index Navigation</h2>
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/nyregion/index.html">N.Y.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/technology/index.html">Tech</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/science">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video/opinion">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video/arts">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/jobs">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/realestate">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/t-magazine">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/travel">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Insider</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+        <h2 class="visually-hidden">Site Information Navigation</h2>
+         <ul>
+             <li>
+                <a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2017</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="http://www.nytimes.com">Home</a></li>
+            <li class="visually-hidden"><a href="http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="visually-hidden">Accessibility concerns? Email us at <a href="mailto:accessibility@nytimes.com">accessibility@nytimes.com</a>. We would love to hear from you.</li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="http://nytmediakit.com/">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <h2 class="visually-hidden">Site Information Navigation</h2>
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>
+        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();</script>
+
+<script>
+require(['foundation/main'], function () {
+    require(['collection/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        $(document).ready(function () {
+            require(['https://a1.nyt.com/analytics/tagx-simple.min.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+                        <script src="https://cdn.optimizely.com/public/3013110282/s/section_front_prod.js" type="text/javascript" async></script>
+            
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden"></div>
+</body>
+</html>
